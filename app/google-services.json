@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99465640963",
+    "project_id": "ambientesapp-da619",
+    "storage_bucket": "ambientesapp-da619.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99465640963:android:5251c23698190a5cf2a236",
+        "android_client_info": {
+          "package_name": "com.example.ambientesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQEU1GdyVLRqGtrHIqVqQq9Gm017NycA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
